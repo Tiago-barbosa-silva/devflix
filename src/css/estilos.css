@@ -27,8 +27,9 @@ ul {
 
 .img-topo {
     height: 25px;
-
+    
 }
+
 
 video {
     width: 100vw;
@@ -73,9 +74,10 @@ video {
     padding: 10px 20px;
     border-radius: 4px;
     cursor: pointer;
+}
 
-
-
+.link-assistir:hover{
+    opacity: .7;
 }
 
 .link-info {
@@ -101,11 +103,10 @@ video {
     height: 150px;
     cursor: pointer;
 
-
-
-
-
-
+}
+.imgs:hover{
+    transform: scale(1.1);
+    opacity: 0.7;
 }
 
 
